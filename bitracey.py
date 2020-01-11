@@ -220,8 +220,8 @@ def game_loop():
             thing_starty = 0 - thing_height
             thing_startx = random.randrange(0, display_width)
             score += 5
-            thing_speed += 0.5
-            thing_width += (score * 0.1)
+            thing_speed += 0.7
+            thing_width += (score * 0.2)
         if score == 100:
             while True:
                 level += 1
