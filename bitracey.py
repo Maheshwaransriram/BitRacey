@@ -22,7 +22,7 @@ bright_blue = (0, 0, 255)
 
 block_color = (0,255,255)
 
-car_width = 78
+car_width = 45
 #create screen and caption
 gameDisplay = pygame.display.set_mode((display_width, display_height))
 pygame.display.set_caption('A bit Racey')
@@ -171,7 +171,7 @@ def game_loop():
 # object shape and size
     thing_startx = random.randrange(0, display_width)
     thing_starty = -600
-    thing_speed = 4
+    thing_speed = 5
     thing_width = 80
     thing_height = 80
 
