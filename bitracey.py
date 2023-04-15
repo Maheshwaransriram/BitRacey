@@ -28,7 +28,7 @@ gameDisplay = pygame.display.set_mode((display_width, display_height))
 pygame.display.set_caption('A bit Racey')
 clock = pygame.time.Clock()
 
-carImg = pygame.image.load('car5.png')
+carImg = pygame.image.load('car3.png')
 gameIcon = pygame.image.load('car1.png')
 
 
