@@ -1,5 +1,5 @@
 # BitRacey
-This is the Game with small car which is travel through long distance without hitting any obstacles.
+This is the Game with small car which is travel through long distance without been hit by any obstacles.
 ##  Team Members
 | Team Member  | Name            | Register No    |
 | -------------| -------------   | --------       |
